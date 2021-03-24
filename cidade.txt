@@ -7,3 +7,8 @@ Ceará
 Pernambuco
 Rio Grande do Sul
 Minas Gerais
+
+Ceará       
+Pernambuco
+Rio Grande do Sul
+Minas Gerais
